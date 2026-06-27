@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    name: "Lavender Dreams",
+    name: "Lavender",
     price: 180,
     scent: "Floral",
     description: "Calming lavender with hints of vanilla and chamomile. Perfect for winding down.",
@@ -12,9 +12,9 @@ export const products = [
   },
   {
     id: 2,
-    name: "Cedarwood & Smoke",
+    name: "Vanilla",
     price: 28.99,
-    scent: "Woody",
+    scent: "Floral",
     description: "Deep cedarwood with a touch of smoky vetiver and black pepper.",
     burnTime: "50–55 hrs",
     size: "10 oz",
