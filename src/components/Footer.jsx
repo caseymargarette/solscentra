@@ -4,9 +4,9 @@ export default function Footer() {
       <div className="footer-inner">
         <div className="footer-brand">
           <span>🕯️</span>
-          <strong>Lumière</strong>
+          <strong>Solscentra</strong>
         </div>
-        <p>© {new Date().getFullYear()} Lumière Candle Co. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} Solscentra All rights reserved.</p>
         <div className="footer-links">
           <a href="#">Shipping</a>
           <a href="#">Returns</a>
